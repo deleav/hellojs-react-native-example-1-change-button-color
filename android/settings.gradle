@@ -1,0 +1,3 @@
+rootProject.name = 'HellojsExample'
+
+include ':app'
